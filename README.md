@@ -25,6 +25,43 @@
 ## Description
 
 [Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
+Final project of the 42_cursus.
+
+Ft_transcendance is a onepage fullstack website where you can play pong with players among other things such as JWT / 2fa authentification, a chat, private messages, friends list, profiles, a match-making system and a spectating system.
+
+## Features
+
+Online PVP Pong:
+
+Matchmaking.
+Game spectating.
+Match history
+Leaderboard.
+
+Complete chat system:
+
+Direct messages.
+Friend list.
+Channels
+Game invites.
+User status (connected, disconnected, playing a match, ...)
+User search.
+
+
+User profile:
+
+Uploadable profile picture.
+Changeable username.
+
+
+Authentication and security:
+
+OAuth using 42 Intranet's implementation
+2FA using (Google Authenticator).
+
+
+
+Responsive and original self-made web design.
 
 ## Installation
 
